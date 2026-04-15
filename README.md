@@ -204,12 +204,4 @@ data_model_project/
 - [ ] **Causality analysis** - Which factors causally influence stress?
 - [ ] **Cross-study validation** - Test on external datasets
 
----
 
-## 📝 Citation
-
-If you use this analysis, please cite:
-
-```
-NetHealth Study Analysis: Predicting Student Stress (2024)
-```

@@ -1,4 +1,4 @@
-# 📊 Predicting Student Stress Using Wearable and Survey Data
+# Predicting Student Stress Using Wearable and Survey Data
 
 ### NetHealth Study | Multimodal Stress Prediction
 
